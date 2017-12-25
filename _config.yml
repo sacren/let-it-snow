@@ -1,0 +1,15 @@
+# _config.yml
+
+title: Josi, Let It Snow...
+description: ''
+baseurl: /let-it-snow
+url: ''
+author: © 2017 Jεan Sacren
+
+timezone: America/Denver
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
