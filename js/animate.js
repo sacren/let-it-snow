@@ -66,8 +66,8 @@ jQuery(function ($) {
 
   letItSnow()
 
-  window.addEventListener('resize', function () {
+  $('window').resize(function () {
     canvas.width = w = window.innerWidth
     canvas.height = h = window.innerHeight
-  }, false)
+  })
 })
