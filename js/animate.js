@@ -64,10 +64,14 @@ jQuery(function ($) {
     fall()
   }
 
-  letItSnow()
+  function init () {
+    letItSnow()
 
-  $('window').resize(function () {
-    canvas.width = w = window.innerWidth
-    canvas.height = h = window.innerHeight
-  })
+    $('window').resize(function () {
+      canvas.width = w = window.innerWidth
+      canvas.height = h = window.innerHeight
+    })
+  }
+
+  init()
 })
