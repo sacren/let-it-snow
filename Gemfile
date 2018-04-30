@@ -2,10 +2,10 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 # This ensures the proper Jekyll version is used.
-gem "jekyll", "3.5.2"
+gem "jekyll", "~> 3.7.0"
 
 # Default theme.
-gem "minima", "~> 2.0"
+gem "minima", "~> 2.4.0"
 
 # Plugins.
 group :jekyll_plugins do
