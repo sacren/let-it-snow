@@ -1,5 +1,5 @@
 ## [Let It Snow][home page]
 
-Josi, Let It Snow...
+A demo of the falling snow.
 
-[home page]: https://toothsome.github.io/let-it-snow/
+[home page]: https://sacren.github.io/let-it-snow
