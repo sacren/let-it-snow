@@ -5,7 +5,7 @@ ruby RUBY_VERSION
 gem "jekyll", "~> 3.8.0"
 
 # Default theme.
-gem "minima", "~> 2.4.0"
+gem "minima", "~> 2.5.0"
 
 # Plugins.
 group :jekyll_plugins do
